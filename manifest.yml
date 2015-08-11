@@ -1,0 +1,8 @@
+---
+applications:
+- name: john
+  memory: 512M
+  host: john
+  domain: cfapps.io
+  env:
+    john: null
